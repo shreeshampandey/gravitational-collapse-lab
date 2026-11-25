@@ -1,0 +1,9 @@
+{
+ "ok": true,
+ "rep": [
+  "[PASS] flat-space error vs exact: 2.29e-02 -> 5.73e-03, observed order 2.00 (expect 2)",
+  "[PASS] Birkhoff (t=10): M=0.082309, spread of m(r) in vacuum 5.8e-12, max|alpha^2-(1-2M/r)| 2.4e-09",
+  "[PASS] critical amplitude p* = 0.01962 (dr=0.04; reference window 0.0185-0.0205)"
+ ],
+ "wall": 23.314364194869995
+}
